@@ -31,6 +31,14 @@
 
 ---
 
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhd-Firdaus&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=7A7ADB&center=true&vCenter=true&lines=Thank+you+for+visiting+my+profile+👍;Happy+coding!+💻" />
 </p>
