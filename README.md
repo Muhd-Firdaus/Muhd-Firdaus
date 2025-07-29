@@ -13,11 +13,10 @@
 
 <div align="center">
   <a href="https://github.com/Muhd-Firdaus">
-    <img src="https://github-readme-stats.vercel.app/api?username=Muhd-Firdaus&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=5BC0EB&text_color=D3D3D3&bg_color=0,000000,130F40" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Muhd-Firdaus&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=5BC0EB&text_color=D3D3D3&bg_color=0,000000,130F40" width="50%"/>
   </a>
-  <br>
   <a href="https://github.com/Muhd-Firdaus">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhd-Firdaus&show_icons=true&layout=compact&title_color=7A7ADB&icon_color=5BC0EB&text_color=D3D3D3&bg_color=0,000000,130F40" width="100%/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhd-Firdaus&show_icons=true&layout=compact&title_color=7A7ADB&icon_color=5BC0EB&text_color=D3D3D3&bg_color=0,000000,130F40" width="50%/>
   </a>
 </div>
 
